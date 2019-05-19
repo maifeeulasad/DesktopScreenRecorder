@@ -97,6 +97,7 @@ namespace DesktopScreenRecorder
                         {
                             //TODO: Log Error
                         }
+                        Console.WriteLine("saving");
                     }
                 }
             }
