@@ -36,3 +36,42 @@ E:\Git\Desktop Screen Recorder\DesktopScreenRecorder\DesktopScreenRecorder\bin\D
 E:\Git\Desktop Screen Recorder\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\Accord.Video.FFMPEG.xml
 E:\Git\Desktop Screen Recorder\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder_Content.g.cs
 E:\Git\Desktop Screen Recorder\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder.csprojResolveAssemblyReference.cache
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\avcodec-57.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\avdevice-57.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\avfilter-6.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\avformat-57.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\avutil-55.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\postproc-54.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\swresample-2.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\swscale-4.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\Accord.dll.config
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\DesktopScreenRecorder.exe.config
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\DesktopScreenRecorder.exe
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\DesktopScreenRecorder.pdb
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\Accord.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\Accord.Video.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\Accord.Video.FFMPEG.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\ControlzEx.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\MahApps.Metro.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\System.Windows.Interactivity.dll
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\Accord.xml
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\Accord.Video.xml
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\Accord.Video.FFMPEG.xml
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\ControlzEx.pdb
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\MahApps.Metro.pdb
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\bin\Debug\MahApps.Metro.xml
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder.csprojAssemblyReference.cache
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\MainWindow.g.cs
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\App.g.cs
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder_Content.g.cs
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder_MarkupCompile.cache
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder_MarkupCompile.lref
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\App.baml
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\MainWindow.baml
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder.g.resources
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder.Properties.Resources.resources
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder.csproj.GenerateResource.cache
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder.csproj.CoreCompileInputs.cache
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder.csproj.CopyComplete
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder.exe
+F:\git\DesktopScreenRecorder\DesktopScreenRecorder\obj\Debug\DesktopScreenRecorder.pdb
